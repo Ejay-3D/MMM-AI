@@ -13,6 +13,7 @@ MMM-AI is a simple module based on a mix of MMM-NotificationTrigger & MMM-HTMLBO
 
 ### Installation
 
+In the MagicMirror/modules directory run : 
 ```sh
 git clone https://github.com/ejay-ibm/MMM-AI.git
 ```
