@@ -5,6 +5,11 @@
 */
 Module.register("MMM-AI",{
 	defaults: {
+		width: "100%",
+		height: "inherit",
+		refresh_interval_sec: 0,
+		content: `<img id="MY_ANIMATION" src="config/jarvis-standby2.gif"/>`,  // this can be changed in config.js
+		//file: "sample.html",
 	useWebhook: false,
 		triggers:[
 			{
@@ -27,11 +32,7 @@ Module.register("MMM-AI",{
 				],
 			},
 		]
-		width: "100%",
-		height: "inherit",
-		refresh_interval_sec: 0,
-		content: `<img id="MY_ANIMATION" src="config/jarvis-standby2.gif"/>`,  // this can be changed in config.js
-		//file: "sample.html",
+	
 	},
 
 	start: function() {
