@@ -3,10 +3,10 @@ MMM-AI is a simple module based on a mix of MMM-NotificationTrigger & MMM-HTMLBO
 
 ### Screenshot
 Standby animation 
-![](https://github.com/eouia/MMM-AI/jarvis-standby2.gif)
+![](https://github.com/ejay-ibm/MMM-AI/blob/master/jarvis-standby2.gif)
 
 Talking animation 
-![](https://github.com/eouia/MMM-AI/jarvis-talk2.gif)
+![](https://github.com/ejay-ibm/MMM-AI/blob/master/jarvis-talk2.gif)
 
 ### Installation
 
