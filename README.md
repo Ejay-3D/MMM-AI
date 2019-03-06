@@ -1,5 +1,5 @@
 ## MMM-AI
-MMM-AI is a simple module based on a mix of MMM-NotificationTrigger & MMM-HTMLBOX from eouia that allow to have animation of 'AI' kind when the mirror is in standby mode  ( waiting for user instruction) or talking mode ( when assistant is replying ) 
+MMM-AI is a simple module based on a mix of MMM-NotificationTrigger & MMM-HTMLBOX from eouia that allow to have animation of 'AI' kind when the mirror is in standby mode  ( waiting for user instruction) or talking mode ( when assistant is replying ) triggered by Notification sent by modules. 
 
 ### Screenshot
 <pre>
@@ -103,3 +103,7 @@ Sample for MMM-AssistantMk2 transcriptionHooking demo.
 
 ### Additional Info 
 All other configuration sample from eouia/MMM-HTMLBOX & eouia/MMM-NotificationTrigger are applicable to this module.
+
+Thanks to Sean : https://github.com/eouia/   who have created this code that I have merged.
+Animated images are created by me. 
+
