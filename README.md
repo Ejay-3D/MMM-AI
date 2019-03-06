@@ -2,7 +2,11 @@
 MMM-AI is a simple module based on a mix of MMM-NotificationTrigger & MMM-HTMLBOX from eouia that allow to have animation of 'AI' kind when the mirror is in standby mode  ( waiting for user instruction) or talking mode ( when assistant is replying ) 
 
 ### Screenshot
-To be added 
+Standby animation 
+![](https://github.com/eouia/MMM-AI/blob/master/jarvis-standby2.gif)
+
+Talking animation 
+![](https://github.com/eouia/MMM-AI/blob/master/jarvis-talk2.gif)
 
 ### Installation
 
