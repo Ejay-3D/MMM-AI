@@ -101,5 +101,5 @@ Sample for MMM-AssistantMk2 transcriptionHooking demo.
 
 
 
-### useWebhook
+### Additional Info 
 All other configuration sample from eouia/MMM-HTMLBOX & eouia/MMM-NotificationTrigger are applicable to this module.
