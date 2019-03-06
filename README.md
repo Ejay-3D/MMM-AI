@@ -60,50 +60,11 @@ git clone https://github.com/ejay-ibm/MMM-AI.git
 
 ```
 
-Sample for MMM-AssistantMk2 transcriptionHooking demo.
-```javascript
-{
-  module: "MMM-NotificationTrigger",
-  config: {
-    triggers:[
-      {
-        trigger: "ASSISTANT_ACTION",
-        triggerSenderFilter: (sender) => {
-          console.log(sender)
-          if (sender.name == 'MMM-AssistantMk2') {
-            return true
-          } else {
-            return false
-          }
-        },
-        triggerPayloadFilter: (payload) => {
-          console.log(payload)
-          return true
-        },
-        fires: [
-          {
-            fire:"SHOW_ALERT",
-            payload: (payload) => {
-              return {
-                type: "notification",
-                title: payload.type,
-                message: payload.command
-              }
-            },
-          },
-        ],
-      },
-    ]
-  }
-
-},
-```
-
 
 
 ### Additional Info 
-All other configuration sample from eouia/MMM-HTMLBOX & eouia/MMM-NotificationTrigger are applicable to this module.
+All other configuration sample from https://github.com/eouia/MMM-HTMLBOX & https://github.com/eouia/MMM-NotificationTrigger are applicable to this module.
 
-Thanks to Sean : https://github.com/eouia/   who have created this code that I have merged.
+Thanks to Sean : https://github.com/eouia/  who have created this code that I have merged for this module purpose.
 Animated images are created by me. 
 
