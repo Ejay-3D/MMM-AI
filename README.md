@@ -43,7 +43,7 @@ git clone https://github.com/ejay-ibm/MMM-AI.git
             ]
           },
 		{
-            trigger: "HOTWORD_SLEEPING", // HHOTWORD_SLEEPING if you use MMM-HOTWORD  or HOTWORD_PAUSE if you use MMM-AssistantMk2
+            trigger: "HOTWORD_SLEEPING", // HOTWORD_SLEEPING if you use MMM-HOTWORD  or HOTWORD_PAUSE if you use MMM-AssistantMk2
             fires: [
               {
                 fire: "Talk_Image",
