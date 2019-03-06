@@ -64,6 +64,9 @@ git clone https://github.com/ejay-ibm/MMM-AI.git
 
 
 ### Additional Info 
+
+For now the animation start as soon as the hotword is detected. In the futur we may have an additional notification allowing the talk animation start at the end of user input. 
+
 All other configuration sample from https://github.com/eouia/MMM-HTMLBOX & https://github.com/eouia/MMM-NotificationTrigger are applicable to this module.
 
 Thanks to Sean : https://github.com/eouia/  who have created this code that I have merged for this module purpose.
