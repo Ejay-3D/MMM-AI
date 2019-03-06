@@ -70,5 +70,5 @@ For now the animation start as soon as the hotword is detected. In the futur we 
 All other configuration sample from https://github.com/eouia/MMM-HTMLBOX & https://github.com/eouia/MMM-NotificationTrigger are applicable to this module.
 
 Thanks to Sean : https://github.com/eouia/  who have created this code that I have merged for this module purpose.
-Animated images are created by me. 
+Animated images are created by me. I will work to create additional ones. 
 
